@@ -1,5 +1,5 @@
 # Hola, soy Lupita
-:computer Soy Ingeniera en Sistemas Computacionales 
+Soy Ingeniera en Sistemas Computacionales 
  
 * Quiero recuperar mi habilidades como desarrolladora y mejorar profesionalmente. 
 
